@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_calculator">MyCalculator</string>
+    <color name="pink">#ffc0cb</color>
+    <color name="sliver">#c0c0c0</color>
+</resources>
